@@ -12,4 +12,4 @@ python -m ipykernel install --user --name lab5 --display-name "Python (lab5)"
 
 echo
 echo "Done. Activate with:  source .venv/bin/activate"
-echo "Then open the notebook with:  jupyter lab lab5.ipynb  (kernel: Python (lab5))"
+echo "Then open the notebook with:  jupyter lab labs/lab5.ipynb  (kernel: Python (lab5))"
