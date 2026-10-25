@@ -4,5 +4,3 @@ scipy
 matplotlib
 ipykernel
 jupyterlab
-anthropic
-python-dotenv
